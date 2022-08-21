@@ -4,8 +4,8 @@ Resturant Application
 # install libraries
 npm i
 
-# run project in developement
+#developement
 npm run dev
 
-# run project in production
+#production
 npm start
